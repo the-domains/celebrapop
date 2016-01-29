@@ -1,0 +1,28 @@
+name: celebrapop
+favicon: null
+layout_spectrum: 0.12933104136027396
+typography_spectrum: 0.11238342942669988
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5737372376024723
+  lightness: 0.8081919688265771
+  saturation: 0.06531782494857907
+  rhythmicContrast: 0.5914420282933861
+purpose: []
